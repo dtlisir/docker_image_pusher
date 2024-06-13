@@ -4,9 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-redis:6.2.7
-redis:6.2.14
-minio/minio:RELEASE.2021-04-22T15-44-28Z
-it-tools:latest
 mysql:8.0.28
 mysql:8.0.36
