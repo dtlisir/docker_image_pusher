@@ -17,5 +17,5 @@
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #milvusdb/milvus:v2.3.3
 #dataelement/bisheng-rt:0.0.6.3rc1
-dataelement/bisheng-ft:latest
-#dataelement/bisheng-unstructured:latest
+#dataelement/bisheng-ft:latest
+dataelement/bisheng-unstructured:latest
