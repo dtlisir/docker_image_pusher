@@ -43,5 +43,6 @@
 #langgenius/dify-sandbox:0.2.9
 #ubuntu/squid:latest
 #semitechnologies/weaviate:1.19.0
-bitnami/kube-state-metrics:2.12.0
+#bitnami/kube-state-metrics:2.12.0
+prom/node-exporter:v1.3.1
 
