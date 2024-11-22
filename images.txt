@@ -48,5 +48,7 @@
 #easzlab/kubeasz:3.1.1
 #easzlab/kubeasz-sys-pkg:0.4.1
 #easzlab/kubeasz-k8s-bin:v1.22.2
-easzlab/kubeasz-ext-bin:0.9.5
+#easzlab/kubeasz-ext-bin:0.9.5
+calico/typha:v3.24.5
+calico/pod2daemon-flexvol:v3.24.5
 
