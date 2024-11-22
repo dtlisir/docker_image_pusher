@@ -46,5 +46,6 @@
 #bitnami/kube-state-metrics:2.12.0
 #prom/node-exporter:v1.3.1
 #easzlab/kubeasz:3.1.1
-easzlab/kubeasz-sys-pkg:0.4.1
+#easzlab/kubeasz-sys-pkg:0.4.1
+easzlab/kubeasz-k8s-bin:v1.22.2
 
