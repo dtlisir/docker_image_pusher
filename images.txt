@@ -52,5 +52,7 @@
 #calico/typha:v3.24.5
 #calico/pod2daemon-flexvol:v3.24.5
 #calico/cni:v3.24.5
-calico/node:v3.24.5
+#calico/node:v3.24.5
+calico/csi:v3.24.5
+calico/node-driver-registrar:v3.24.5
 
