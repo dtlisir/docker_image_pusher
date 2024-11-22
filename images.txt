@@ -44,5 +44,7 @@
 #ubuntu/squid:latest
 #semitechnologies/weaviate:1.19.0
 #bitnami/kube-state-metrics:2.12.0
-prom/node-exporter:v1.3.1
+#prom/node-exporter:v1.3.1
+easzlab/kubeasz:3.1.1
+kubeasz-sys-pkg:0.4.1
 
