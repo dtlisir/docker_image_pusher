@@ -56,4 +56,5 @@
 #calico/csi:v3.24.5
 #calico/node-driver-registrar:v3.24.5
 #calico/kube-controllers:v3.24.5
-calico/apiserver:v3.24.5
+#calico/apiserver:v3.24.5
+canal/canal-server:v1.1.7
