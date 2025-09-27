@@ -69,8 +69,9 @@
 #zilliz/attu:v2.6
 #postgres:13.22
 #adminer:5.4.0
-infiniflow/infinity:v0.6.0-dev5
-infiniflow/sandbox-executor-manager:latest
-mysql:8.0.39
-minio/minio:RELEASE.2025-06-13T11-33-47Z
-valkey/valkey:8
+#infiniflow/infinity:v0.6.0-dev5
+#infiniflow/sandbox-executor-manager:latest
+#mysql:8.0.39
+#minio/minio:RELEASE.2025-06-13T11-33-47Z
+#valkey/valkey:8
+infiniflow/ragflow:v0.20.5-slim
