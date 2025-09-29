@@ -74,4 +74,5 @@
 #mysql:8.0.39
 #minio/minio:RELEASE.2025-06-13T11-33-47Z
 #valkey/valkey:8
-infiniflow/ragflow:v0.20.5-slim
+#infiniflow/ragflow:v0.20.5-slim
+neo4j:ubi9
