@@ -76,4 +76,5 @@
 #valkey/valkey:8
 #infiniflow/ragflow:v0.20.5-slim
 #neo4j:ubi9
-jertel/elastalert2:2.2.3
+#jertel/elastalert2:2.2.3
+ghcr.io/tjhop/prometheus-mcp-server:latest
